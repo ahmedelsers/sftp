@@ -8,6 +8,6 @@ $ pipenv shell
 
 $ pipenv install django
 
-$ django-admin startproject config .      <-- Make sure to end the line with a dot
+$ django-admin startproject config   .      <-- Make sure to end the line with a dot
 
 $ python manage.py startapp sftp
